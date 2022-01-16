@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Teste",
+    "address": "Teste",
+    "cuisine": "Teste",
+    "website": "https://Teste.com",
+    "description": "Teste"
+  },
+  {
+    "name": "Teste2",
+    "address": "Teste2",
+    "cuisine": "Teste2",
+    "website": "https://Teste2.com",
+    "description": "Teste2"
+  },
+  {
+    "name": "Teste3",
+    "address": "Teste3",
+    "cuisine": "Teste3",
+    "website": "https://Teste3.com",
+    "description": "Teste3"
+  }
+]
