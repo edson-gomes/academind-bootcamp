@@ -30,5 +30,13 @@
     "website": "https://saopaulomaravilha.com",
     "description": "Comida brasileira... é o que há de melhor.",
     "id": "c24d293f-a164-408b-9be7-3ed197b091a5"
+  },
+  {
+    "name": "RibaCity",
+    "address": "Ribeirão Pires",
+    "cuisine": "Japanese",
+    "website": "https://ribacity.com",
+    "description": "Localizado em Ribeirão. É uma maravilha!!",
+    "id": "b018e010-5d01-4c13-8f2f-43e5e9b18a36"
   }
 ]
